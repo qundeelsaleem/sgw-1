@@ -12,7 +12,6 @@
 
         <!-- main-area -->
         <main>
-
             <!-- slider-area -->
             <section class="slider-area">
                 <div class="slider-active">
