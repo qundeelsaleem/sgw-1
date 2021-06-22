@@ -4,7 +4,6 @@
        <?php include('Linked-packages/headerLinks.php');?>
     </head>
     <body>
-    <h1>Qundee</h1>
 
         <!-- preloader -->
         <?php include('Linked-packages/Preloader.php');?>
